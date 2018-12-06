@@ -1,0 +1,12 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<litepal>
+    <dbname value="BookStore"></dbname>
+
+    <version value="2"></version>
+
+    <list>
+        <mapping class="com.example.jing.litepal.Book"></mapping>
+        <mapping class="com.example.jing.litepal.Category"></mapping>
+    </list>
+
+</litepal>
